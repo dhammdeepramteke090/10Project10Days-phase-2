@@ -176,3 +176,11 @@ body {
   transition: all 0.5s ease-in;
   font-size: 12px;
 }
+.dhammdeep{
+  border: 1px dotted rgb(33, 32, 33);
+    background-color: rgb(252, 252, 252);
+    text-align: center;
+    border-radius: 50px;
+    padding-right: 10px;
+    padding-left:10px ;
+}
